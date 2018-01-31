@@ -1,7 +1,7 @@
 from selenium import webdriver
 # from time import sleep
 import time
-class TEST:
+class TEST:000
     def __init__(self):
         self.driver = webdriver.Chrome()
         self.driver.get('https://sit-ccp.uce.cn')
